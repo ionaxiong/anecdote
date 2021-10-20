@@ -3,8 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Prerequisites for development
-
-## Install node 14-alpine
+Install node 14-alpine
 
 ## Available Scripts
 
